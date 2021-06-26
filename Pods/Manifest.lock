@@ -1,0 +1,34 @@
+PODS:
+  - Alamofire (5.4.1)
+  - InputBarAccessoryView (5.3.1):
+    - InputBarAccessoryView/Core (= 5.3.1)
+  - InputBarAccessoryView/Core (5.3.1)
+  - MessageKit (3.6.0):
+    - InputBarAccessoryView (~> 5.3.1)
+  - Socket.IO-Client-Swift (16.0.1):
+    - Starscream (~> 4.0)
+  - Starscream (4.0.4)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - MessageKit
+  - Socket.IO-Client-Swift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - InputBarAccessoryView
+    - MessageKit
+    - Socket.IO-Client-Swift
+    - Starscream
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  InputBarAccessoryView: 1f75d8c9f75e5e57f3ffac36ed58635a8005e0bc
+  MessageKit: a8efaf55b021672b19ffdd5a85ce1c2f3b53058e
+  Socket.IO-Client-Swift: c116d6dc9fd6be9c259bacfe143f8725bce7d79e
+  Starscream: 5178aed56b316f13fa3bc55694e583d35dd414d9
+
+PODFILE CHECKSUM: cead7df20992a1ede7b4e0fa7166ef6992799600
+
+COCOAPODS: 1.10.0
